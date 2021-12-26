@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">I'm Jakub from Poland, and I'm a fullstack JS developer. I really enjoy learning new stuff and I guess I'm able to do it quite fast. I spend major part of my time on working with NodeJS frameworks, like Express or Nest (just a little bit) with TypeScript, I'm also working on frontend project which uses Vue with CSS preprocessors like SASS, using BEM methodology.</h3>
+<h3 align="center">I'm Jakub and I'm a fullstack JS developer based in Rzeszów (Poland). I really enjoy learning new stuff and I guess I'm able to do it quite fast. I spend major part of my time on working with NodeJS frameworks, like Express or Nest (just a little bit) with TypeScript, I'm also working on frontend project which uses Vue with CSS preprocessors like SASS, using BEM methodology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubwolak&label=Profile%20views&color=0e75b6&style=flat" alt="jakubwolak" /> </p>
 
